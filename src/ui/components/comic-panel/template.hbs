@@ -1,6 +1,0 @@
-<div class="comic-panel">
-  {{#each animations key="@index" as |layer|}}
-    <comic-panel-layer id={{layer.layerId}} @image={{layer.image}} @frameTotal={{layer.frameTotal}} />
-  {{/each}}
-  <play-button class="play-button" onclick={{action togglePlayState}} @isPlaying={{isPlaying}} @play="Play" @pause="Stap it" />
-</div>
