@@ -1,5 +1,8 @@
 # comic-panel
 
+Glimmer.js [Web Component Demo](https://jessica-jordan.github.io/glimmer-comic-panel/dist/) based on the
+Web Animations API.
+
 This README outlines the details of collaborating on this Glimmer application.
 A short introduction of this app could easily go here.
 
