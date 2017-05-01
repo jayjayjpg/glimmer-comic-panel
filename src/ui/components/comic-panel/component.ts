@@ -13,7 +13,7 @@ export default class ComicPanel extends Component {
 
   animations = [{
     layerId: 'comic-panel-layer-1',
-    image: '/img/racoonhero.png',
+    image: 'img/racoonhero.png',
     frameTotal: this.frameTotal,
     keyframeSet: [
       { backgroundPosition: '0 0' },
